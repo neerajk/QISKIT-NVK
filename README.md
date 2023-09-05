@@ -1,5 +1,5 @@
 # QISKIT-NVK
 
-Intro to Qiskit /n
-__
-To keep track of things learnt
+Intro to Qiskit 
+
+<br>To keep track of things learnt
